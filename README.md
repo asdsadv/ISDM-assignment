@@ -101,13 +101,14 @@ Est: 2   Imp: Low
 |Priority|Medium|
 |Actors|Primary – Customer <br> Secondary – Call Management Centre and Live Chat system|
 |Pre-conditions|The customer has an authentic phone number and requires KYC. <br>The customer has a device that enables the ability to perform a live chat.|
-|Post-conditions||
-|Trigger||
-|Main Flow||
-|Exceptions||
+|Post-conditions| The Live chat is able to identify the right customer and tailor their holiday package to them.<br>
+Preset replies ready to respond to the customer with the use of a bot.|
+|Trigger|There are people on standby to answer the live chat.|
+|Main Flow|1.	The customer opens the website and it displays the landing page, then clicks on the login page button.<br> 2.	The customer enters their username and passwords and then presses the login button.<br> 3.	The website then displays the landing page again after login.<br> 4.	The customer clicks on the live chat button.<br> 5.	The website displays the chat page and the customer needs to enter their order number.<br> 6.	The customer waits until one of the operators to connect to the chat.<br> 7.	The customer can communicate with the operators and ask about their enquiry.<br> 8.	The use case ends. |
+|Exceptions|Exception 1. Step 2-7: The system is error or interrupted.<br> Exception 2. Step 6-7: The customer accidentally closed the webpage or browser window anytime, and then the chat ends.|
 |Includes/Extends/Inherits||
-|Supporting Information||
-|Non-functional Requirements||
+|Supporting Information|Employees managing the call centre in live chat should have a script and training to follow to prepare and allow them to answer the necessary questions that may be presented to them when operating the live chat function and feature.|
+|Non-functional Requirements|Implementation: The live chat should be instant and have pre arranged replies to respond to the customer.<br><br>Security:<br> 1) Secure customer’s information and details as well as verifying their identity.<br>2) Security of the system, with pen testers ensuring that there are no hackers or any threats looking at what is being said.|
 
 |Use Case ID||
 |-|-|
