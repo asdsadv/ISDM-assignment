@@ -79,8 +79,8 @@ Est: 2   Imp: Low
 
 ### Use Case Narratives
 
-| Use Case Id | \#UC103: Sell holiday packages to customers |
-|Use Case ID||
+|Use Case ID|#UC103: Sell holiday packages to customers|
+|-|-|
 |User Story||
 |Goal||
 |Priority||
@@ -94,9 +94,22 @@ Est: 2   Imp: Low
 |Supporting Information||
 |Non-functional Requirements||
 
-| Use Case Id |  |
-|-|-|
 |Use Case ID||
+|-|-|
+|Goal||
+|Priority||
+|Actors||
+|Pre-conditions||
+|Post-conditions||
+|Trigger||
+|Main Flow||
+|Exceptions||
+|Includes/Extends/Inherits||
+|Supporting Information||
+|Non-functional Requirements||
+
+|Use Case ID||
+|-|-|
 |User Story||
 |Goal||
 |Priority||
@@ -110,25 +123,8 @@ Est: 2   Imp: Low
 |Supporting Information||
 |Non-functional Requirements||
 
-| Use Case Id |  |
-|-|-|
 |Use Case ID||
-|User Story||
-|Goal||
-|Priority||
-|Actors||
-|Pre-conditions||
-|Post-conditions||
-|Trigger||
-|Main Flow||
-|Exceptions||
-|Includes/Extends/Inherits||
-|Supporting Information||
-|Non-functional Requirements||
-
-| Use Case Id |  |
 |-|-|
-|Use Case ID||
 |User Story||
 |Goal||
 |Priority||
