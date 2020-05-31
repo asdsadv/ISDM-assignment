@@ -144,6 +144,10 @@ Preset replies ready to respond to the customer with the use of a bot.|
 
 ![Use Case Diagram](Use%20Case%20Diagram.png)
 
+### Class Diagram
+
+![Class Diagram](Class%20diagram.png)
+
 ### Sequence Diagram
 
 Use case #UC104 - Live chat service
