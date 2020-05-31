@@ -73,6 +73,22 @@ Est: 3   Imp: Medium
 As a member of the Relationship Managers, I want the customer to receive the latest package and marketing notification via SMS so that the notifications can be easily obtained.
 Est: 2   Imp: Low
 
-### User story map
+### User Story Map
 
 ![User story map](User%20story%20map.png)
+
+### Use Case Narratives
+
+| Use Case Id |  |
+|-------------|--------|
+|Use Case ID||
+|User Story||
+|Goal||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
