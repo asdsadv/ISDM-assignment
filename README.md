@@ -43,7 +43,7 @@ The agile and scrum methodology can be applied to this project. It is very appro
 4.  The leader can share the project with the team to deliver products or services in a short cycle that will increase the level of production and the quality of our project.
 5. 	Continuous feedback from leaders makes the business’s ability to change and adapt quickly to any major changes involved in the project.
 
-### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails. - Ronny Wassef and Richard Voce
+### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails. - Ronny Wassef and Richard Voice
 
 
 
