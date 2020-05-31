@@ -30,11 +30,11 @@ An agile approach should allow for the fast and quick progression of team organi
 This agile approach will also address multiple risks that consist of but are not limited to; Schedule slips, cancelation of the project, system eros, defect rates, misunderstandings of the business or businesses purpose, changes in the business small or large and staff turnovers if needed.
 Looking further into agile methods we have addressed the use of a scrum approach to complete the requirements needed.
 
-### Scrum -
+### Scrum - Richard Voice
  When looking at a scrum agile approach for the development of this software and project, it is easy to identify that this is a very heavily team based project that will allow for segmented teams to deliver the product in short cycles which will enhance the production rate and quality of the software/project. A scrum approach will also allow for fast constant feedback. This will allow for a consistent improvement as well as the ability to scale the project up or down based on demand if need be. This will allow the business the ability to change and adapt quickly to any major changes that may be involved. 
 This methodology has proven to have worked many times and is perfect for this project as the software is complex and may need to be changed at a moment's notice. This will further enhance the ability to adapt for changes that may be needed to be made to the system in order to tailor it better for not only the CMC but RM’s as well to further enhance a more pleasurable experience for the customer.
 
-### Assumptions made in the systems analysis. 
+### Assumptions made in the systems analysis. - Richard Voice
  
 The agile and scrum methodology can be applied to this project. It is very appropriate because we can complete the project effectively and revise it many times so that it can complete the project well without any mistakes and reduce error. This system can also be adjusted to CMC and RM to provide the services that customers want. Such system assumptions of our projects are listed below:
 1.  Assume that the system will be used to design and analyse in strengthening active communication and consistency in working on projects.
@@ -43,11 +43,11 @@ The agile and scrum methodology can be applied to this project. It is very appro
 4.  The leader can share the project with the team to deliver products or services in a short cycle that will increase the level of production and the quality of our project.
 5. 	Continuous feedback from leaders makes the business’s ability to change and adapt quickly to any major changes involved in the project.
 
-### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails.
+### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails. - Ronny Wassef and Richard Voce
 
 
 
-### User stories
+### User stories - Kevin Matthew Widjajanto
 
 \#101
 As a member of the Relationship Managers, I want to be able to capture customer’s profile details and identification through interactive voice response so that the process of selling packages and providing a service would be quicker. 
@@ -73,11 +73,11 @@ Est: 3   Imp: Medium
 As a member of the Relationship Managers, I want the customer to receive the latest package and marketing notification via SMS so that the notifications can be easily obtained.
 Est: 2   Imp: Low
 
-### User Story Map
+### User Story Map - Kevin Matthew Widjajanto
 
 ![User story map](User%20story%20map.png)
 
-### Use Case Narratives
+### Use Case Narratives - One each
 
 |Use Case ID|#UC103: Sell holiday packages to customers|
 |-|-|
@@ -140,21 +140,21 @@ Preset replies ready to respond to the customer with the use of a bot.|
 |Supporting Information|N/A|
 |Non-functional Requirements|Implementation: SMS must be able to get customers in at least one minute to notify them<br>Security: Secure customer’s phone number and other profile details|
 
-### Use Case Diagram
+### Use Case Diagram - Kevin Matthew Widjajanto
 
 ![Use Case Diagram](Use%20Case%20Diagram.png)
 
-### Class Diagram
+### Class Diagram - Kevin Matthey Widjajanto
 
 ![Class Diagram](Class%20diagram.png)
 
-### Sequence Diagram
+### Sequence Diagram - Aaron Wibisono
 
 Use case #UC104 - Live chat service
 
 ![Sequence Diagram UC104](Sequence%20Diagram%20UC104.png)
 
-### Activity Diagram 
+### Activity Diagram - Aaron Wibisono
 
 Use case #UC104 - Live chat service
 
