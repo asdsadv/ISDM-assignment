@@ -79,6 +79,8 @@ Est: 2   Imp: Low
 
 ### Use Case Narratives
 
+|||
+|-|-|
 | Use Case Id | #UC103: Sell holiday packages to customers |
 |Use Case ID||
 |User Story||
