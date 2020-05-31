@@ -154,7 +154,7 @@ Use case #UC104 - Live chat service
 
 ![Sequence Diagram UC104](Sequence%20Diagram%20UC104.png)
 
-###Activity Diagram 
+### Activity Diagram 
 
 Use case #UC104 - Live chat service
 
