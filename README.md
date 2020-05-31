@@ -43,3 +43,32 @@ The agile and scrum methodology can be applied to this project. It is very appro
 4.  The leader can share the project with the team to deliver products or services in a short cycle that will increase the level of production and the quality of our project.
 5. 	Continuous feedback from leaders makes the business’s ability to change and adapt quickly to any major changes involved in the project.
 
+### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails.
+
+
+
+### User stories
+
+\#101
+As a member of the Relationship Managers, I want to be able to capture customer’s profile details and identification through interactive voice response so that the process of selling packages and providing a service would be quicker. 
+Est: 6   Imp: High
+ 
+\#301
+As a member of the Relationship Managers, I want to be able to call automatically from my target list through a predictive dialler call centre so that they can offer products and solve customer problems faster.
+Est: 5   Imp: High  
+ 
+\#103
+As a member of the Relationship Managers, I want to be able to sell holiday packages to customers, so that the company can increase sales.
+Est: 4   Imp: High
+ 
+\#104
+As a customer, I want to be able to choose and view my holiday package with live chat (modern call centre software features) instead of receiving phone calls during reservation so that the process would be convenient and easier. 
+Est: 3   Imp: Medium
+ 
+\#102
+As a customer, I want to have a 24 hours office operator for cancelling and changing my holiday package so that I don’t need to wait for a long time. 
+Est: 3   Imp: Medium 
+ 
+\#201
+As a member of the Relationship Managers, I want the customer to receive the latest package and marketing notification via SMS so that the notifications can be easily obtained.
+Est: 2   Imp: Low
