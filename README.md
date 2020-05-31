@@ -22,5 +22,5 @@ We would like to aim for a simplified approach to meet not only stakeholders’ 
 These stages fit the approach to have a pilot test of the product in regard to how the product will be implemented. 
 
 ![Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process](Design%20Thinking.png)
-
+#####*Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process*
 
