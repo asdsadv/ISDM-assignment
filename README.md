@@ -110,32 +110,48 @@ Preset replies ready to respond to the customer with the use of a bot.|
 |Supporting Information|Employees managing the call centre in live chat should have a script and training to follow to prepare and allow them to answer the necessary questions that may be presented to them when operating the live chat function and feature.|
 |Non-functional Requirements|Implementation: The live chat should be instant and have pre arranged replies to respond to the customer.<br><br>Security:<br> 1) Secure customer’s information and details as well as verifying their identity.<br>2) Security of the system, with pen testers ensuring that there are no hackers or any threats looking at what is being said.|
 
-|Use Case ID||
+|Use Case ID|#UC102:|
 |-|-|
-|User Story||
-|Goal||
-|Priority||
-|Actors||
-|Pre-conditions||
-|Post-conditions||
-|Trigger||
-|Main Flow||
-|Exceptions||
+|User Story|As a customer, I want to have a 24 hours office operator for cancelling and changing my holiday package so that I don’t need to wait for a long time.|
+|Goal|Having 24 hours office operators for customer needs|
+|Priority|Medium|
+|Actors|Primary –  Customer<br> Secondary – Service operators|
+|Pre-conditions|The customer needs to have a mobile device or home phone.<br>The customer also needs to have an authentic phone number|
+|Post-conditions|The service operators at the office will be able to change or cancel the customer’s holiday package for a shorter period|
+|Trigger|There are service operators on standby for incoming call|
+|Main Flow|1.	The customer calls the office operator regarding the holiday package <br>2.	The customer explains about what they want to do with their holiday package<br>3.	The service operator help customer to change or cancel their holiday package<br>4.	The customer then needs confirm their change<br>5.	The service operator changes the holiday package<br>6.	The use case ends|
+|Exceptions|Exception 1. Step 1-5: The signal is interrupted and the call is ended. |
 |Includes/Extends/Inherits||
-|Supporting Information||
-|Non-functional Requirements||
+|Supporting Information|N/A|
+|Non-functional Requirements|Security: Secure customer’s phone number and identity.|
 
-|Use Case ID||
+|Use Case ID|#UC201: Latest Package and Marketing Notifications|
 |-|-|
-|User Story||
-|Goal||
-|Priority||
-|Actors||
-|Pre-conditions||
-|Post-conditions||
-|Trigger||
-|Main Flow||
-|Exceptions||
+|User Story|As a member of the Relationship Managers, I want the customer to receive latest package and marketing notifications via SMS so that the notification can be easily obtained|
+|Goal|SMS helps the business to deliver a message to customers about their latest package and marketing notifications|
+|Priority|Low|
+|Actors|Primary – Relationship Managers and SMS system<br>Secondary – Customer|
+|Pre-conditions|The customer has an authentic phone number <br>The customer has a mobile device that can be able to receive SMS|
+|Post-conditions|The SMS system sends latest package and marketing notifications to the customer|
+|Trigger|There are latest package and marketing details available to send to customer|
+|Main Flow|1.	The Relationship Managers has updated the latest package and marketing notifications into an SMS service that makes it easy for customers to read<br>2.	The Relationship Managers send notifications to the SMS system.<br>3.	The SMS system helps to notify all customers in the system<br>4.	The customer can receive notifications via the SMS application which is usually called messages apps<br>5.	The use case end|
+|Exceptions|Exception (1) Step 2 – When the SMS system is down|
 |Includes/Extends/Inherits||
-|Supporting Information||
-|Non-functional Requirements||
+|Supporting Information|N/A|
+|Non-functional Requirements|Implementation: SMS must be able to get customers in at least one minute to notify them<br>Security: Secure customer’s phone number and other profile details|
+
+### Use Case Diagram
+
+![Use Case Diagram](Use%20Case%20Diagram.png)
+
+### Sequence Diagram
+
+Use case #UC104 - Live chat service
+
+![Sequence Diagram UC104](Sequence%20Diagram%20UC104.png)
+
+###Activity Diagram 
+
+Use case #UC104 - Live chat service
+
+![Activity Diagram UC104](Activity%20Diagram%20UC104.png)
