@@ -21,5 +21,6 @@ When assessing the stakeholders that are needed to take into consideration with 
 We would like to aim for a simplified approach to meet not only stakeholders’ requirements but any future stakeholders that may have some form of association with the company in the future. The process will be done through a thorough planning and testing stage. There will need to be an analysis on the old system and the need to identify if the system needs to be updated and remodelled or if there are completely new areas that need to be built within the system or the whole system itself. I would suggest a pilot implementation of the new system once ready to ensure that it works correctly and can run smoothly while achieving the goal it is designed to achieve. Using the 5 stages of design thinking, we will follow the process as necessary. The stages of this design thinking are to Empathise, Define, Ideate, Prototype and Test. 
 These stages fit the approach to have a pilot test of the product in regard to how the product will be implemented. 
 
-![Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process](https://github.com/asdsadv/ISDM-assignment/blob/master/Design%20Thinking.png)
+![Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process](Design%20Thinking.png)
+
 
