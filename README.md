@@ -1,9 +1,9 @@
 # ISDM-assignment
 
-### Objectives for New System Implementation:
+### Objectives for New System Implementation:           - Richard Voice
 The objective of this system update is to improve the operation of their in-house call management. This overall will adjust the amount of calls that can be taken as well as how quickly they can be resolved. Another use case of this will improve the sales on holiday packages. Overall achieving these objectives will further. There will need to be an analysis on how many use cases there are in regard to the new system and how many of them will be new and vital over the current system. Our goal will be to design and build an agile scalable system to allow for a lot of room for the system to cope in the event of a large back up of calls. The overall goal is to filter customers to the best fitted Relationship Manager (RM). This will further enhance the efficiency of how each RM can assign a customer with their holiday packages. An improvement of this will then lead to a lot of wasted time being used efficiently as there will be less time needed to sort and filter customers or to even randomly assign the customer to a different RM every time.
 
-### Stakeholders: 
+### Stakeholders:                                       - Richard Voice
 When assessing the stakeholders that are needed to take into consideration with the implementation of such a large system-based project, we broke our findings down to identifying stakeholders into two different groups. These groups are internal stakeholders and external stakeholders.
 
 | Internal Stakeholders| External Stakeholders |
@@ -17,14 +17,14 @@ When assessing the stakeholders that are needed to take into consideration with 
 |HR dealing with internal disputes in the duration of the project  ||
 |Shareholders (though there is a difference, shareholders may still be classified as a stakeholder in this instance)||
 
-### Planned Approach:
+### Planned Approach:                                  - Richard Voice
 We would like to aim for a simplified approach to meet not only stakeholders’ requirements but any future stakeholders that may have some form of association with the company in the future. The process will be done through a thorough planning and testing stage. There will need to be an analysis on the old system and the need to identify if the system needs to be updated and remodelled or if there are completely new areas that need to be built within the system or the whole system itself. I would suggest a pilot implementation of the new system once ready to ensure that it works correctly and can run smoothly while achieving the goal it is designed to achieve. Using the 5 stages of design thinking, we will follow the process as necessary. The stages of this design thinking are to Empathise, Define, Ideate, Prototype and Test. 
 These stages fit the approach to have a pilot test of the product in regard to how the product will be implemented. 
 
 ![Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process](Design%20Thinking.png) 
 ##### *Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process*
 
-### The Agile Methodologies - 
+### The Agile Methodologies -                          - Richard Voice
 When looking at the movement on what is most cost effective and scalable in a business. Its safe to assume that taking an agile method approach would be best suited for this project and development of the new software/system. This will allow for responsive changes if there is any need  for some. By making the project as agile as possible. We can assume that there will be a good balance of both development guidelines and philosophy. This will include things like a well presented delivery of analysis and design as well as active and consistent communication across the board. This will also secure and assure customer satisfaction and smaller project teams who are able to collaborate in a better space. The process for the systems implementation will require a well laid out process and documentation of the projects stakeholders which can consist of managers, system users and customers. An agile approach will identify a customers needs and what is required as well as recognise that plans can be short lived. This also helps for development of software and can deliver the software in increments.
 An agile approach should allow for the fast and quick progression of team organisation as well as communication in order to complete tasks. Our approach for this system would be to take the task at hand and partition the project into parts to ensure a level of satisfaction and requirements completion through the use of prototypes that are developed throughout the making and implementation of the system. 
 This agile approach will also address multiple risks that consist of but are not limited to; Schedule slips, cancelation of the project, system eros, defect rates, misunderstandings of the business or businesses purpose, changes in the business small or large and staff turnovers if needed.
