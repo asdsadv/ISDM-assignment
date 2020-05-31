@@ -94,12 +94,13 @@ Est: 2   Imp: Low
 |Supporting Information|Relationship Managers should try to sell a holiday package only after communicating with the customer to determine which|
 |Non-functional Requirements|Clarity: The Relationship Manager and Customer must both be able to clearly see the important details of the holiday package.|
 
-|Use Case ID||
+|Use Case ID|#UC104: Live chat to choose holiday package|
 |-|-|
-|Goal||
-|Priority||
-|Actors||
-|Pre-conditions||
+|User Story|As a customer, I want to be able to choose and view my holiday package with live chat (modern call centre software features) instead of receiving phone calls during reservation so that the process would be convenient and easier. |
+|Goal|To enable a 0 downtime stable live chat system that provides the ability for customers to choose and view their holiday package.|
+|Priority|Medium|
+|Actors|Primary – Customer <br> Secondary – Call Management Centre and Live Chat system|
+|Pre-conditions|The customer has an authentic phone number and requires KYC. <br>The customer has a device that enables the ability to perform a live chat.|
 |Post-conditions||
 |Trigger||
 |Main Flow||
