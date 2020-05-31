@@ -88,7 +88,7 @@ Est: 2   Imp: Low
 |Pre-conditions|The relationship manager is in a call with the customer|
 |Post-conditions|The customer is able to purchase the recommended holiday package from the Relationship Manager|
 |Trigger|The Relationship Manager decides to sell a holiday package|
-|Main Flow|1.	The relationship manager selects the correct holiday package 2.	The relationship manager confirms the selection for the specific customer 3.	The customer is asked to confirm if they want to purchase the holiday package 4.	The relationship manager is notified of the customers decision 5.	The use case ends|
+|Main Flow|1.	The relationship manager selects the correct holiday package <br> 2.	The relationship manager confirms the selection for the specific customer <br> 3.	The customer is asked to confirm if they want to purchase the holiday package <br> 4.	The relationship manager is notified of the customers decision <br> 5.	The use case ends|
 |Exceptions|Exception (1) The customer or the Relationship Manager disconnects|
 |Includes/Extends/Inherits||
 |Supporting Information|Relationship Managers should try to sell a holiday package only after communicating with the customer to determine which|
