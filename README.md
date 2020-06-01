@@ -45,7 +45,11 @@ The agile and scrum methodology can be applied to this project. It is very appro
 
 ### Competitive advantages to be gained, Possible adverse effects for the business if this system project fails. - Ronny Wassef and Richard Voice
 
-
+Developing this new system successfully will allow Relationship Managers to provide better customer service by matching them with customers better. The improved customer service could lead to more sales, as well as an improved customer experience, making it more likely for customers to return, as well as recommend the service to others. The improved customer service would provide a competitive advantage, allowing the company to stand out to customers as a better experience over competitors.
+If this system is successful, it will increase the number of sales per employee, allowing for a greater return on investment for each hired employee, as well as possibly improving employee morale. It could also allow costs to be lowered for customers, increasing sales.
+The approach of making life easier for the customer is a great way to get an upper hand on the competitor. This new system will save time on not only the company's side but for our customers as well. This will also allow the company to save money and enable these funds to go to another department or area to maximise the way the company operates. The functionality of tailoring and sorting customers to the correct RM is an effective way of being able to maximise the work rate and efficiency of which the company runs at. 
+In the case where the system fails there will need to be procedures taken as well as a reference to SLA agreements to ensure that there are fail safes not only within the system but also external to the system as well. If there are not the correct procedures in place if the project fails or the system has down time it could lead to lawsuits and unhappy stakeholders in all areas of the business.
+If the system fails after going live, it could interrupt business, and cause dissatisfaction with customers, and prevent Relationship Managers from being able to do their jobs. This could negatively impact the view potential customers have on the company, and cause customers to leave. This would negatively impact the return on investment of this project.
 
 ### User stories - Kevin Matthew Widjajanto
 
