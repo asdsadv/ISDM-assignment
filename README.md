@@ -8,17 +8,17 @@ When assessing the stakeholders that are needed to take into consideration with 
 
 | Internal Stakeholders| External Stakeholders |
 |----------------------|-----------------------|
-|Employees managing the calls in the call centre | End customers |
+|Employees managing the calls in the call center | End customers |
 |Analytics managers|Public who display interests|
-|Project managers |Hotels and other accommodation companies within the holiday packages|
+|Project managers |Hotels and other third party companies that may be associated with the agency|
 |Relationship Managers |Hire companies eg cars, boats, bikes etc|
 |Other branches of the company – Relationship managers and call centre (CMC) |The Third-party travel related companies|
-|generalised employees with the company ||
+|Generalised employees with the company ||
 |HR dealing with internal disputes in the duration of the project  ||
 |Shareholders (though there is a difference, shareholders may still be classified as a stakeholder in this instance)||
 
 ### Planned Approach:                                  - Richard Voice
-We would like to aim for a simplified approach to meet not only stakeholders’ requirements but any future stakeholders that may have some form of association with the company in the future. The process will be done through a thorough planning and testing stage. There will need to be an analysis on the old system and the need to identify if the system needs to be updated and remodelled or if there are completely new areas that need to be built within the system or the whole system itself. I would suggest a pilot implementation of the new system once ready to ensure that it works correctly and can run smoothly while achieving the goal it is designed to achieve. Using the 5 stages of design thinking, we will follow the process as necessary. The stages of this design thinking are to Empathise, Define, Ideate, Prototype and Test. 
+We would like to aim for a simplified systematic approach to meet not only stakeholders’ requirements but any future stakeholders that may have some form of association with the company in the future. The process will be done through a thorough planning and testing stage. There will need to be an analysis on the old system and the need to identify if the system needs to be updated and remodelled or if there are completely new areas that need to be built within the system or the whole system itself. I would suggest a pilot implementation of the new system once ready to ensure that it works correctly and can run smoothly while achieving the goal it is designed to achieve. Using the 5 stages of design thinking, we will follow the process as necessary. The stages of this design thinking are to Empathise, Define, Ideate, Prototype and Test. 
 These stages fit the approach to have a pilot test of the product in regard to how the product will be implemented. 
 
 ![Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process](Design%20Thinking.png) 
