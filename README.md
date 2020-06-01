@@ -24,7 +24,7 @@ These stages fit the approach to have a pilot test of the product in regard to h
 ![Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process](Design%20Thinking.png) 
 ##### *Figure 1- https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process*
 
-### The Agile Methodologies -                          - Richard Voice
+### The Agile Methodologies                          - Richard Voice
 When looking at the movement on what is most cost effective and scalable in a business. Its safe to assume that taking an agile method approach would be best suited for this project and development of the new software/system. This will allow for responsive changes if there is any need  for some. By making the project as agile as possible. We can assume that there will be a good balance of both development guidelines and philosophy. This will include things like a well presented delivery of analysis and design as well as active and consistent communication across the board. This will also secure and assure customer satisfaction and smaller project teams who are able to collaborate in a better space. The process for the systems implementation will require a well laid out process and documentation of the projects stakeholders which can consist of managers, system users and customers. An agile approach will identify a customers needs and what is required as well as recognise that plans can be short lived. This also helps for development of software and can deliver the software in increments.
 An agile approach should allow for the fast and quick progression of team organisation as well as communication in order to complete tasks. Our approach for this system would be to take the task at hand and partition the project into parts to ensure a level of satisfaction and requirements completion through the use of prototypes that are developed throughout the making and implementation of the system. 
 This agile approach will also address multiple risks that consist of but are not limited to; Schedule slips, cancelation of the project, system eros, defect rates, misunderstandings of the business or businesses purpose, changes in the business small or large and staff turnovers if needed.
@@ -148,7 +148,7 @@ Preset replies ready to respond to the customer with the use of a bot.|
 
 ![Class Diagram](Class%20diagram.png)
 
-### Sequence Diagram - Aaron Wibisono
+### Sequence Diagram - Aaron Wibisono and Ronny Wassef
 
 Use case #UC104 - Live chat service
 
